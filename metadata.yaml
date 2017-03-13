@@ -1,5 +1,8 @@
 _repo: The-Duchess-of-Malfi_2232
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Webster, John
@@ -23,6 +26,8 @@ description: "The Duchess of Malfi (originally published as The Tragedy of the D
   \ its characters, particularly Bosola and the Duchess, plus Webster's poetic language,\
   \ ensure the play is often considered among the greatest tragedies of English renaissance\
   \ drama.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2232#The-Duchess-of-Malfi
 gutenberg_bookshelf: Harvard Classics
 gutenberg_issued: '2000-06-01'
 gutenberg_type: Text
